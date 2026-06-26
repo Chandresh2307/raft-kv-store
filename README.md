@@ -3,8 +3,6 @@
 
 A distributed key-value store built in C++17 implementing the **Raft consensus algorithm** — the same algorithm used in production systems like etcd (Kubernetes), CockroachDB, and TiKV.
 
-Built by **Chandresh Harkhani** — B.Tech CSE, P.P. Savani University (2024–28)
-
 ---
 
 ## What is Raft?
